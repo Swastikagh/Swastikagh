@@ -130,8 +130,8 @@ Applied ConvNeXt transfer learning and Grad-CAM to build an interpretable multi-
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img alt="Swastika's GitHub Stats" src="https://github-readme-stats.azurewebsites.net/api?username=Swastikagh&show_icons=true&hide_border=true&theme=calm&include_all_commits=true" height="165" />
-  <img alt="Top Languages" src="https://github-readme-stats.azurewebsites.net/api/top-langs/?username=Swastikagh&layout=compact&hide_border=true&theme=calm&langs_count=6" height="165" />
+  <img alt="Swastika's GitHub Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Swastikagh&show_icons=true&hide_border=true&theme=calm&include_all_commits=true&count_private=true" height="165" />
+  <img alt="Top Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Swastikagh&layout=compact&hide_border=true&theme=calm&langs_count=6" height="165" />
 </div>
 
 ---
